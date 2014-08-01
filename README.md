@@ -12,9 +12,9 @@ A collaborative list of awesome **vim** resources inspired by [awesome-swift](ht
 
 
 ## Vim Download
-Before starting download your vim!
-*[MacVIM](https://github.com/b4winckler/macvim) - VIM for OSX
-*[Windows VIM](ftp://ftp.vim.org/pub/vim/pc/gvim74.exe) - Self installing VIM for Win
+
+* [MacVIM](https://github.com/b4winckler/macvim) - VIM for OSX
+* [Windows VIM](ftp://ftp.vim.org/pub/vim/pc/gvim74.exe) - Self installing VIM for Win
 
 ## Plugins
 A cool list of interesting plugins for VIM
