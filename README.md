@@ -6,7 +6,8 @@ A collaborative list of awesome **vim** resources inspired by [awesome-swift](ht
 
 - [Awesome Vim](#awesome-vim)
   - [Vim Download](#vim-download)
-  - [Plugins](#plugins)    
+  - [Plugins](#plugins)   
+    - [Git](#git)
     - [Explorer](#explorer)
     - [Plugin Manager](#plugin-manager)  
 
@@ -16,8 +17,14 @@ A collaborative list of awesome **vim** resources inspired by [awesome-swift](ht
 * [MacVIM](https://github.com/b4winckler/macvim) - VIM for OSX
 * [Windows VIM](http://ftp.vim.org/pub/vim/pc/gvim74.exe) - Self installing VIM for Win
 
+
 ## Plugins
 A cool list of interesting plugins for VIM
+
+
+### Git
+* [Fugitive.vim](https://github.com/tpope/vim-fugitive) - git wrapper for vim
+
 
 ### Explorer
 * [NERDTree](https://github.com/scrooloose/nerdtree) - tree explorer
