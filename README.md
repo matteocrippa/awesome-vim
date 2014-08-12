@@ -10,7 +10,8 @@ A collaborative list of awesome **vim** resources inspired by [awesome-swift](ht
     - [Explorer](#explorer)
     - [File finder](#file-finder)
     - [Git](#git)
-    - [Plugin Manager](#plugin-manager)  
+    - [Plugin Manager](#plugin-manager)
+    - [Syntax](#syntax)
     - [Snippet Manager](#snippet-manager)
 
 
@@ -42,6 +43,10 @@ A cool list of interesting plugins for VIM
 * [Pathogen](https://github.com/tpope/vim-pathogen) - Install and manage plugin and runtime files easier.
 * [Vundle](https://github.com/gmarik/Vundle.vim) - Vundle plugin manager.
 
+
+### Syntax
+* [Go](https://github.com/fatih/vim-go) - Go support
+ 
 
 ### Snippet Manager
 * [Snipmate](https://github.com/msanders/snipmate.vim) - Snippet manager for vim.
