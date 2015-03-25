@@ -41,6 +41,7 @@ A cool list of interesting plugins for VIM
 
 ### Plugin Manager
 * [Pathogen](https://github.com/tpope/vim-pathogen) - Install and manage plugin and runtime files easier.
+* [Vim-plug](https://github.com/junegunn/vim-plug) - Minimalist Vim Plugin Manager.
 * [Vundle](https://github.com/gmarik/Vundle.vim) - Vundle plugin manager.
 
 
@@ -54,4 +55,5 @@ A cool list of interesting plugins for VIM
 
 ### UI
 * [Airline](https://github.com/bling/vim-airline) - Status/Tab bar now looks better.
+* [Vim-startify](https://github.com/mhinz/vim-startify) - A fancy start screen for Vim.
 
