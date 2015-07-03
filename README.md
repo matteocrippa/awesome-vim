@@ -57,6 +57,6 @@ A cool list of interesting plugins for VIM
 * [Airline](https://github.com/bling/vim-airline) - Status/Tab bar now looks better.
 * [Vim-startify](https://github.com/mhinz/vim-startify) - A fancy start screen for Vim.
 
-### buffer
+### Buffer
 * [bufonly](https://github.com/muziqiushan/bufonly) - maintain current only using one command
 
