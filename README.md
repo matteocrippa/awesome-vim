@@ -13,7 +13,7 @@ A collaborative list of awesome **vim** resources inspired by [awesome-swift](ht
     - [Plugin Manager](#plugin-manager)
     - [Syntax](#syntax)
     - [Snippet Manager](#snippet-manager)
-    - [Buffer](#Buffer)
+    - [Buffer](#buffer)
 
 ## Vim Download
 
