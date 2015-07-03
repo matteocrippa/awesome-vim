@@ -13,7 +13,7 @@ A collaborative list of awesome **vim** resources inspired by [awesome-swift](ht
     - [Plugin Manager](#plugin-manager)
     - [Syntax](#syntax)
     - [Snippet Manager](#snippet-manager)
-
+    - [Buffer](#Buffer)
 
 ## Vim Download
 
@@ -56,4 +56,7 @@ A cool list of interesting plugins for VIM
 ### UI
 * [Airline](https://github.com/bling/vim-airline) - Status/Tab bar now looks better.
 * [Vim-startify](https://github.com/mhinz/vim-startify) - A fancy start screen for Vim.
+
+### buffer
+* [bufonly](https://github.com/muziqiushan/bufonly) - maintain current only using one command
 
