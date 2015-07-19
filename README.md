@@ -60,5 +60,3 @@ A cool list of interesting plugins for VIM
 
 ### Buffer
 * [bufonly](https://github.com/muziqiushan/bufonly) - maintain current only using one command
-
-111
