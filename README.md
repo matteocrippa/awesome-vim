@@ -47,6 +47,7 @@ A cool list of interesting plugins for VIM
 
 ### Syntax
 * [Go](https://github.com/fatih/vim-go) - Go support
+* [Rust](https://github.com/rust-lang/rust.vim) - Rust support
  
 
 ### Snippet Manager
