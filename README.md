@@ -57,6 +57,7 @@ A cool list of interesting plugins for VIM
 
 ### UI
 * [Airline](https://github.com/bling/vim-airline) - Status/Tab bar now looks better.
+* [Vim-lastplace](https://github.com/dietsche/vim-lastplace) - Intelligently reopen files where you left off.
 * [Vim-startify](https://github.com/mhinz/vim-startify) - A fancy start screen for Vim.
 
 ### Buffer
