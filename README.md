@@ -37,6 +37,7 @@ A cool list of interesting plugins for VIM
 
 ### Git
 * [Fugitive](https://github.com/tpope/vim-fugitive) - Git wrapper for vim.
+* [vim-gitgutter](https://github.com/airblade/vim-gitgutter) - A Vim plugin which shows a git diff in the 'gutter' (sign column) and stages/undoes hunks.
 
 
 ### Plugin Manager
