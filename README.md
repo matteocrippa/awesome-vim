@@ -6,7 +6,7 @@ A collaborative list of awesome **vim** resources inspired by [awesome-swift](ht
 
 - [Awesome Vim](#awesome-vim)
   - [Vim Download](#vim-download)
-  - [Plugins](#plugins)   
+  - [Plugins](#plugins)
     - [Explorer](#explorer)
     - [File finder](#file-finder)
     - [Git](#git)
@@ -14,6 +14,7 @@ A collaborative list of awesome **vim** resources inspired by [awesome-swift](ht
     - [Syntax](#syntax)
     - [Snippet Manager](#snippet-manager)
     - [Buffer](#buffer)
+  - [Tutorials](#tutorials)
 
 ## Vim Download
 
@@ -51,7 +52,7 @@ A cool list of interesting plugins for VIM
 * [Go](https://github.com/fatih/vim-go) - Go support
 * [Rust](https://github.com/rust-lang/rust.vim) - Rust support
 * [Swift](https://github.com/keith/swift.vim) - Swift
- 
+
 
 ### Snippet Manager
 * [Snipmate](https://github.com/msanders/snipmate.vim) - Snippet manager for vim.
@@ -64,3 +65,8 @@ A cool list of interesting plugins for VIM
 
 ### Buffer
 * [bufonly](https://github.com/muziqiushan/vim-bufonly) - maintain current only using one command
+
+
+## Tutorials
+
+* [Vimcasts](http://vimcasts.org) - Drew Neil's screencasts, articles and publications
