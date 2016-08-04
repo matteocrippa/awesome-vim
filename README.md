@@ -52,6 +52,7 @@ A cool list of interesting plugins for VIM
 * [Go](https://github.com/fatih/vim-go) - Go support
 * [Rust](https://github.com/rust-lang/rust.vim) - Rust support
 * [Swift](https://github.com/keith/swift.vim) - Swift
+* [Ruby](https://github.com/vim-ruby/vim-ruby) - Ruby
 
 
 ### Snippet Manager
