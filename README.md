@@ -66,6 +66,8 @@ A cool list of interesting plugins for VIM
 ### Buffer
 * [bufonly](https://github.com/muziqiushan/vim-bufonly) - maintain current only using one command
 
+### Code completion
+* [YouCompleteMe](https://github.com/Valloric/YouCompleteMe) - A code-completion engine for Vim
 
 ## Tutorials
 
