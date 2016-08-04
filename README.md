@@ -50,9 +50,9 @@ A cool list of interesting plugins for VIM
 ### Syntax
 * [vim-polyglot](https://github.com/sheerun/vim-polyglot) - Meta-plugin for syntaxes
 * [Go](https://github.com/fatih/vim-go) - Go support
+* [Ruby](https://github.com/vim-ruby/vim-ruby) - Ruby
 * [Rust](https://github.com/rust-lang/rust.vim) - Rust support
 * [Swift](https://github.com/keith/swift.vim) - Swift
-* [Ruby](https://github.com/vim-ruby/vim-ruby) - Ruby
 
 
 ### Snippet Manager
