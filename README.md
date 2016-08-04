@@ -70,6 +70,14 @@ A cool list of interesting plugins for VIM
 ### Code completion
 * [YouCompleteMe](https://github.com/Valloric/YouCompleteMe) - A code-completion engine for Vim
 
+## Rails development
+* [vim-coffee-script](https://github.com/kchmck/vim-coffee-script) - CoffeeScript support for vim
+* [vim-cucumber](https://github.com/tpope/vim-cucumber) - Vim Cucumber runtime files
+* [vim-endwise](https://github.com/tpope/vim-endwise) - endwise.vim: wisely add "end" in ruby, endfunction/endif/more in vim script, etc
+* [vim-haml](https://github.com/tpope/vim-haml) - Vim runtime files for Haml, Sass, and SCSS
+* [vim-rails](https://github.com/tpope/vim-rails) - rails.vim: Ruby on Rails power tools
+* [vim-slim](https://github.com/slim-template/vim-slim) - slim syntax highlighting for vim
+
 ## Tutorials
 
 * [Vimcasts](http://vimcasts.org) - Drew Neil's screencasts, articles and publications
