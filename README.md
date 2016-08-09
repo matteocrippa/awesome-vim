@@ -56,7 +56,7 @@ A cool list of interesting plugins for VIM
 
 
 ### Snippet Manager
-* [Snipmate](https://github.com/msanders/snipmate.vim) - Snippet manager for vim.
+* [Snipmate](https://github.com/garbas/vim-snipmate) - Snippet manager for vim.
 
 
 ### UI
