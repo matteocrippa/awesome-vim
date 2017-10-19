@@ -53,6 +53,8 @@ A cool list of interesting plugins for VIM
 * [Ruby](https://github.com/vim-ruby/vim-ruby) - Ruby
 * [Rust](https://github.com/rust-lang/rust.vim) - Rust support
 * [Swift](https://github.com/keith/swift.vim) - Swift
+* [Syntastic](https://github.com/vim-syntastic/syntastic) - Syntax checker
+* [ALE](https://github.com/w0rp/ale) - Asynchronous Lint Engine
 
 
 ### Snippet Manager
