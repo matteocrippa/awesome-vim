@@ -83,3 +83,4 @@ A cool list of interesting plugins for VIM
 ## Tutorials
 
 * [Vimcasts](http://vimcasts.org) - Drew Neil's screencasts, articles and publications
+* [Configure Vim from scratch](https://blog.hellojs.org/configure-vim-from-scratch-efe5cbc1c563)
