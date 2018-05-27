@@ -83,3 +83,4 @@ A cool list of interesting plugins for VIM
 ## Tutorials
 
 * [Vimcasts](http://vimcasts.org) - Drew Neil's screencasts, articles and publications
+* [Programming Community Curated Resources For Learning Vim](https://hackr.io/tutorials/learn-vim)
