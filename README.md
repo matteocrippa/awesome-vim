@@ -34,7 +34,7 @@ A cool list of interesting plugins for VIM
 * [CtrlP](https://github.com/kien/ctrlp.vim) - Fuzzy file, buffer, mru, tag, etc finder.
 * [FuzzyFinder](https://bitbucket.org/ns9tks/vim-fuzzyfinder/) - Quick reach buffer/file/command/bookmark/tag you want.
 * [Unite](https://github.com/Shougo/unite.vim) - You can search display information from arbitrary sources.
-* [fzf + Vim][(https://github.com/junegunn/fzf.vim) - Use fzf in vim to search files, lines, buffers, marks, history, commits, and more.
+* [fzf + Vim](https://github.com/junegunn/fzf.vim) - Use fzf in vim to search files, lines, buffers, marks, history, commits, and more.
 
 ### Git
 * [Fugitive](https://github.com/tpope/vim-fugitive) - Git wrapper for vim.
