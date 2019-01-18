@@ -55,7 +55,7 @@ A cool list of interesting plugins for VIM
 * [Swift](https://github.com/keith/swift.vim) - Swift
 * [Syntastic](https://github.com/vim-syntastic/syntastic) - Syntax checker
 * [ALE](https://github.com/w0rp/ale) - Asynchronous Lint Engine
-
+* [Vim Colorschemes](https://github.com/flazz/vim-colorschemes) - One stop shop for vim colorschemes
 
 ### Snippet Manager
 * [Snipmate](https://github.com/garbas/vim-snipmate) - Snippet manager for vim.
